@@ -56,11 +56,7 @@ Windows 用户请将 `$(pwd)` 替换为当前目录的完整路径，例如：`E
 
 
 
-----
-
----
-
-
+<br><br>
 
 
 
@@ -92,7 +88,7 @@ flask run
 By default, the site will run at `http://127.0.0.1:5000/`.
 
 
-### 🐳Method 2: Run with Docker
+### 🐳 Method 2: Run with Docker
 
 1. Build the image:
 
@@ -110,7 +106,7 @@ Windows users: Replace `$(pwd)` with full path like `E:/Finance`
 
 ---
 
-## 📌Notes
+## 📌 Notes
 
 - Stock data is fetched via CS50's finance API and is for **educational purposes only**.
 - Do **NOT** use this project for real trading.
