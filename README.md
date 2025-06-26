@@ -10,7 +10,7 @@
 - 实时查询股价（调用 API）
 - 查看持仓与涨跌幅度
 
----
+
 
 ## 🚀 快速开始
 
@@ -46,7 +46,7 @@ docker run -p 5000:5000 -v $(pwd)/finance.db:/app/finance.db flask-finance
 Windows 用户请将 `$(pwd)` 替换为当前目录的完整路径，例如：`E:/Finance` 
 
 
----
+
 
 
 ## 📌 注意事项 
@@ -70,7 +70,7 @@ With this web app, users can:
 - Look up real-time stock prices (via API)
 - View portfolio and track price changes
 
----
+
 
 ## 🚀 Getting Started
 
@@ -104,7 +104,7 @@ docker run -p 5000:5000 -v $(pwd)/finance.db:/app/finance.db flask-finance
 
 Windows users: Replace `$(pwd)` with full path like `E:/Finance`
 
----
+
 
 ## 📌 Notes
 
